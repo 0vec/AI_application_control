@@ -18,9 +18,10 @@ git switch hot_fix
 git checkout -b hot_fix
 
 git switch -
-=?
+!=
 git switch main
 
+'git switch -' command is go back to previous branch 
 
 git merge hot_fix
 
