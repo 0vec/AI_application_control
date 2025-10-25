@@ -1,18 +1,12 @@
-# AI응용제어 git 수업 repository 샘플링?하기
-
-
-md 파일로 꾸미기?
-=================
-
-
-md 파일로 소개문 작성?
------------------
-
+# AI응용제어 git repository
 
 **git 수업에서 배운 명령어 정리**
+--------------------------------
+<https://github.com/0vec/AI_application_control/blob/main/README.txt>
 
 
 *<u>과제 수행 절차</u>*
+=======================
 
 1. Github에 예시를 참고해서 public repository 생성
 
