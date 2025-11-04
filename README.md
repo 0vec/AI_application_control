@@ -1,7 +1,9 @@
 # AI응용제어 git repository
+AI응용제어 수업 과제 제출용 임시 저장소
 
 **git 수업에서 배운 명령어 정리**
 --------------------------------
+README.txt : 
 <https://github.com/0vec/AI_application_control/blob/main/README.txt>
 
 
