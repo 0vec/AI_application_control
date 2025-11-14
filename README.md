@@ -32,12 +32,12 @@ git push -u origin main
     git switch hot_fix
     vi README.txt
     git add README.txt
-    git command
+    git commit 
     git push origin hot_fix
 
 6. master 브랜치와 hot fix 브랜치 병합 후 반영
     git switch main
     git merge hot_fix
     git add README.txt
-    git command
+    git commit
     git push
